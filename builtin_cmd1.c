@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 
 /**
  * alias_unset - Unsetting alias to a string
